@@ -1,0 +1,6 @@
+{
+  "name": "Mora+",
+  "description": "Plataforma digital de intermediação habitacional que conecta proprietários de imóveis disponíveis a pessoas que procuram moradia nas modalidades Mora+ Trabalho e Mora+ Ocupação.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
